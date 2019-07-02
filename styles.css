@@ -1,0 +1,37 @@
+
+/* add your CSS here */
+.font1 {
+         font-family: 'Acme', serif;
+         text-align: center;
+        }
+
+.bigbox {
+          border: 1px solid #786d6d;
+          box-shadow: 4px 4px 4px #aaa;
+          margin: 10px;
+          padding: 10px;
+          width: 300px;
+          height: 560px;
+          background-color: #e6ffff;
+        }
+
+
+
+.infobox {
+          border: 1px solid #786d6d;
+          width: 279px;
+          height: 250px;
+          margin: 1px;
+          padding: 10px;
+          font-size: 13px;
+          background-color: rgb(255, 230, 230);
+         }
+.font2 {
+        font-style:italic;
+      }
+ul {
+    padding :0px;
+   }
+li {
+    list-style-type: none;
+   }
